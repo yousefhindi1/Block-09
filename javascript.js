@@ -1,8 +1,11 @@
 const form = document.querySelector('#form')
 const submitButton = document.querySelector('#submit')
 
-form.addEventListener('submit', (e) => {
+
+form.addEventListener('Submit', (e) => {
+console.log("Success!")
   submitButton.disabled = true
   e.preventDefault()
   window.location.href = window.location.origin + '/success.html'
 })
+

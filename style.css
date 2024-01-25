@@ -69,20 +69,17 @@ header a:hover {
     font-weight: bold;
 }
 
-/* Page Basics */
 h1, h2, h3, h4, h5, h6 {
     margin-top: 0;
     padding-top: 0;
 }
 
-/* About Page */
 .about {
     color: #333;
     line-height: 1.6em;
     padding-bottom: 20px;
 }
 
-/* Portfolio Page */
 .portfolio-item {
     margin-bottom: 20px;
 }
@@ -91,7 +88,6 @@ h1, h2, h3, h4, h5, h6 {
     max-width: 100%;
 }
 
-/* Footer */
 footer {
     background-color: #333333;
     color: aliceblue;
